@@ -36,6 +36,10 @@ main {
 
 input {
 	margin-top: 10px;
+	width: 400px;
+	height: 30px;
+	font-size: 16px;
+	padding: 0 5px 0 8px;
 }
 
 
@@ -65,10 +69,14 @@ input {
 }
 
 .listing {
-	margin-top: 20px;
+	margin-top: 30px;
 	color: grey;
 }
 
 a {
-	font-weight: bolder;
+	font-weight: 900;
+}
+
+.post {
+	padding-top: 10px;
 }
